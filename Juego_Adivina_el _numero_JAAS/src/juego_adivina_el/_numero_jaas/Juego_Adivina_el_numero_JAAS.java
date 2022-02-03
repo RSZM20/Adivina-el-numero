@@ -93,5 +93,6 @@ public class Juego_Adivina_el_numero_JAAS {
         }while(resp.equalsIgnoreCase("si"));
         
     }
+    int m = 8;
     // Estoy modificando tu archivo (jasx22), saludos 👍 -RSZM20
 }
