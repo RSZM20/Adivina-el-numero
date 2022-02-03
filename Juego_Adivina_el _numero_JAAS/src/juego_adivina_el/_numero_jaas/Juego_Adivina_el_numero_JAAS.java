@@ -40,7 +40,7 @@ public class Juego_Adivina_el_numero_JAAS {
         for (i=0; i<=3; i++) {
 
             if (NumA == NumIn) {
-            System.out.println("\n¡Has acertado! el numero era el: "+NumA);
+            System.out.println("\n¡Has acertado No me la creo :v ! el numero era el: "+NumA); // Cambio en la impresión, @jasx22
             break; }
 
 
